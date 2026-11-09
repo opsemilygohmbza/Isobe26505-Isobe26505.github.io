@@ -1,5 +1,5 @@
 {
-    "name": "e",
+    "name": "",
     "main": "index.html",
     "js-flags": "--expose-gc",
     "window": {
@@ -10,4 +10,3 @@
         "icon": "icon/icon.png"
     }
 }
-
